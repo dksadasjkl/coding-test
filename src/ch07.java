@@ -16,5 +16,6 @@ public class ch07 {
             }
             System.out.println();		// 줄 바꿈
         }
+
     }
 }

@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+// 영수증
 public class ch05 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
